@@ -1,11 +1,18 @@
-### Hi there 👋
+# Subodh Gujar 
+### Full Stack Developer | Cloud & DevOps Engineer
 
-Masters in Computer Science @ North Carolina State University
+## About Me
+<ul>
+  <li>Pursuing Masters in Computer Science from North Carolina State University. <b>GPA: 4.0 </b></li>
+  <li>3+ years professional experience at Barclays as Full Stack Developer.  </li>
+  <li>Grduated from Pune Institute of Computer Technology in 2019 with rank 19 in whole batch. <b> GPA: 9.29 </b> </li>
+  <li> Love to read books. Currently reading: Emotional Intelligence by Daniel Goleman</li>
+  <li> Chef by choice. Favorite Dish: Biryani </li>
+  <li> Enthusiastic about travelling and exploring new places. </li>
+  <li> Passionate about photography. Like to capture Landscapes and Nature. <li>
+</ul>
 
-Full Stack Developer | Cloud & DevOps Engineer
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=subodh30&hide=issues,contribs&show_icons=true&count_private=true&theme=dark)
-
+## Technolgies
 <p>
   <img alt="OpenShift" src="https://img.shields.io/badge/-OpenShift-2088FF?style=flat-square&logo=redhatopenshift&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-darkblue?style=flat-square&logo=python&logoColor=white" />
@@ -36,4 +43,11 @@ Full Stack Developer | Cloud & DevOps Engineer
     <img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-black?style=flat-square&logo=intellijidea&logoColor=white" />
 
 </p>
+
+## My Stats
+
+
+  <img alt="contributions" src="http://github-readme-streak-stats.herokuapp.com/?user=subodh30&theme=dark&background=000000" />  <br>
+  <img alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subodh30&layout=compact&theme=vision-friendly-dark" />
+
 
