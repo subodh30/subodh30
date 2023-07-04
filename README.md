@@ -8,7 +8,7 @@
   <li>Grduated from Pune Institute of Computer Technology in 2019 with rank 19 in whole batch. <b> GPA: 9.29 </b> </li>
   <li> Love to read books. Currently reading: Emotional Intelligence by Daniel Goleman</li>
   <li> Chef by choice. Favorite Dish: Biryani </li>
-  <li> Enthusiastic about travelling and exploring new places. </li>
+  <li> Enthusiastic about travelling and exploring new places. Destination: Under the sky... Above the ocean... On top of a mountain </li>
   <li> Passionate about photography. Like to capture Landscapes and Nature. </li>
 </ul>
 
