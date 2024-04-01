@@ -1,5 +1,6 @@
 # Subodh Gujar <img alt="star" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" /> <img alt="star" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" /> <img alt="star" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" /> <img alt="star" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" /> <img alt="star" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/StarredRepositoryYellow.svg" />
 ### Full Stack Developer | Cloud & DevOps Engineer
+### <a href="https://subodh30.github.io/subodh30/Subodh_Gujar_Resume_Exp.pdf">Resume</a> &nbsp;|&nbsp; <a href="https://subodh30.github.io/subodh30/Subodh_Cover_Letter.pdf"> Cover Letter </a> &nbsp;|&nbsp; <a href="https://subodh30.github.io/subodh30/Subodh_Gujar_Transcript.pdf"> Transcript </a>
 
 ## About Me
 <ul>
